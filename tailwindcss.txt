@@ -1,0 +1,41 @@
+flex
+{
+    flex-row
+    flex-row-reverse
+    flex-col
+    flex-col-reverse
+}
+{
+    flex-nowrap
+    flex-wrap
+    flex-wrap-reverse
+}
+{
+    justify-start
+    justify-end
+    justify-center	
+    justify-between
+    justify-around	
+    justify-evenly
+}
+{
+    items-start
+    items-end
+    items-center
+    items-baseline
+    items-stretch
+}
+{
+    overflow-visible
+    overflow-hidden
+}
+-------
+//for subclass
+{
+    align-self
+    self-start	
+    self-end	
+    self-center	
+    self-stretch
+}
+-------
